@@ -1,0 +1,20 @@
+body{
+    background-size: cover;
+    color: black;
+}
+
+.start{
+    background-color: rgb(99, 141, 99);
+}
+
+.status{
+    background-color: rgb(102, 126, 190);
+}
+
+.detected{
+    background-color: rgb(190, 155, 102);
+}
+
+canvas{
+    margin-top: 60px;
+}
